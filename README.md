@@ -1,6 +1,6 @@
 ## Short bio
 He/Him.<br>
-I am a Computer Engineering student in Faculty of Engineering, Cairo University (CHS) from Egypt that is trying to gather more experience and have fun along the way. I am also hearing impaired and a lip reader, but I never let that stop me. My projects so far included both academic and non-academic projects.
+I am a Computer Engineering student in Faculty of Engineering, Cairo University (CHS) from Egypt that is trying to gather more experience and have fun along the way. I am also hearing impaired and a lip reader, but I never let that stop me. My projects so far include both academic and non-academic projects.
 
 ## Contacts
 <p align="center">
