@@ -1,8 +1,8 @@
-### Short bio
+## Short bio
 He/Him.<br>
 I am a Computer Engineering student in Faculty of Engineering, Cairo University (CHS) from Egypt that is trying to gather more experience and have fun along the way. I am also hearing impaired, but I never let that stop me. My projects so far included both academic and non-academic projects.
 
-### Contacts
+## Contacts
 <p align="center">
 <a href="https://linkedin.com/in/mostafa-abdelbrr" target="_blank" rel="noreferrer">
     <img
@@ -304,7 +304,7 @@ I am a Computer Engineering student in Faculty of Engineering, Cairo University 
 </p>
 
 
-### Project highlights
+## Project highlights
 
 - SHSO (fan game project): My current project, trying to reverse-engineer broken features and implement them. Open Source repo coming soon:tm:.
 - Twitter Clone: Acadmic project, aim was to implement a large-scale project via trying to imitate Twitter, my role mainly focused on backened tasks.<br>
