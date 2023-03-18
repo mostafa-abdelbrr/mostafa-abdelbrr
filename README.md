@@ -306,7 +306,12 @@ I am a Computer Engineering student in Faculty of Engineering, Cairo University 
 
 ## Project highlights
 
-- SHSO (fan game project): My current project, trying to reverse-engineer broken features and implement them. Open Source repo coming soon:tm:.
+- SHSO (fan game project): My current project, trying to reverse-engineer broken features and implement them.
+    * Website: https://retrosquadonline.com/
+    * Server repo:<br>
+    [![SHSO Server](https://github-readme-stats.vercel.app/api/pin/?username=SHSUnderground&repo=shso-server&show_owner=true&theme=radical)](https://github.com/SHSUnderground/shso-server)
+    * Game client repo:<br>
+    [![SHSO Game](https://github-readme-stats.vercel.app/api/pin/?username=SHSUnderground&repo=shso-unity-project&show_owner=true&theme=radical)](https://github.com/SHSUnderground/shso-unity-project)
 - Twitter Clone: Acadmic project, aim was to implement a large-scale project via trying to imitate Twitter, my role mainly focused on backened tasks.<br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Twitter-CUFE-CCEC-2023&repo=Twitter-Backend&show_owner=true&theme=radical)](https://github.com/Twitter-CUFE-CCEC-2023/Twitter-Backend)
 - StudentHub: backend and minor frontend project for MMD internship.<br>
