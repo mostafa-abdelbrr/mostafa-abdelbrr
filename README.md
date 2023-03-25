@@ -328,3 +328,6 @@ I am a Computer Engineering student in Faculty of Engineering, Cairo University 
 ![Mostafa Abdelbrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa-abdelbrr&count_private=true&show_icons=true&theme=algolia)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mostafa-abdelbrr&theme=algolia)](https://github.com/mostafa-abdelbrr)
 [![Fun Trophies](https://github-profile-trophy.vercel.app/?username=mostafa-abdelbrr&theme=algolia)](https://github.com/mostafa-abdelbrr)<br>
+
+[Read as a wesbite.](https://mostafa-abdelbrr.github.io/mostafa-abdelbrr/)<br>
+[Read from github profile.](https://github.com/mostafa-abdelbrr)
