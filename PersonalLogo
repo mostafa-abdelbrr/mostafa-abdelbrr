@@ -1,0 +1,15 @@
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="250px" height="142px">
+<text kerning="auto" font-family="Titan Logo" fill="rgb(0, 0, 0)" font-size="200px" x="0px" y="142px"><tspan font-size="200px" font-family="Titan Logo" fill="#000000">M</tspan></text>
+<style>
+    @font-face {
+        font-family: Titan Logo;
+        src: https://github.com/mostafa-abdelbrr/mostafa-abdelbrr/raw/master/TitanLogo.ttf;
+    }
+    svg{
+        font-family: Titan Logo;
+    }
+</style>
+</svg>
