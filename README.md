@@ -175,7 +175,7 @@ I am a Computer Engineering graduate from Faculty of Engineering, Cairo Universi
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"
       alt="laravel"
       width="40"
       height="40"
