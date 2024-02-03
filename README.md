@@ -323,7 +323,7 @@ I am a Computer Engineering graduate from Faculty of Engineering, Cairo Universi
 
 <!-- [![Mostafa Abdelbrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa-abdelbrr)](https://github.com/mostafa-abdelbrr/github-readme-stats) -->
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mostafa-abdelbrr&left_color=green&right_color=blue) <br>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=mostafa-abdelbrr%2Fmostafa-abdelbrr&countColor=%23263759) <br>
 
 ![Mostafa Abdelbrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa-abdelbrr&count_private=true&show_icons=true&theme=algolia)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mostafa-abdelbrr&theme=algolia)](https://github.com/mostafa-abdelbrr)
